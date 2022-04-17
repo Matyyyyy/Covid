@@ -1,1 +1,1 @@
-# Git
+Covid aplikace pro reportování blízkách kontaktů
